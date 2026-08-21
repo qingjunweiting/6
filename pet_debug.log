@@ -1,0 +1,13 @@
+===== START ===== 3.13.14 (tags/v3.13.14:fd17997, Jun 10 2026, 13:03:48) [MSC v.1944 64 bit (AMD64)] frozen= False
+APP-READY platform= windows screens= ['NE160QDM-NZL']
+MIRROR-INSTALLED True
+INIT pos= PySide6.QtCore.QPoint(1166, 438) size= PySide6.QtCore.QSize(480, 560) screen= NE160QDM-NZL dpr= 1.5 flags= 264203
+HEARTBEAT mode= idle sleeping= False hook= True typingE= 0.0 look= -9.8
+HOOK-KB-FIRST
+HOOK-MS-FIRST
+HEARTBEAT mode= idle sleeping= False hook= True typingE= 0.0 look= -10.0
+HEARTBEAT mode= idle sleeping= False hook= True typingE= 0.0 look= -10.0
+HEARTBEAT mode= idle sleeping= False hook= True typingE= 0.0 look= -10.0
+HEARTBEAT mode= idle sleeping= False hook= True typingE= 0.0 look= -10.0
+HEARTBEAT mode= idle sleeping= False hook= True typingE= 0.0 look= -10.0
+HEARTBEAT mode= idle sleeping= False hook= True typingE= 0.0 look= -10.0
